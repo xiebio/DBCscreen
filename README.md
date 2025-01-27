@@ -1,7 +1,7 @@
 # DBCscreen
 A pipeline to rapidly detect DNA barcode contamination for biodiversity research
 
-## Test script for protistan contamination screening
+## Test script for DNA barcode contamination screening
 
 ```PYTHON
 python DBCscreen.py -i input_file -o ./results
